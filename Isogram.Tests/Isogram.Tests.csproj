@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\isogram-csharp-problem\isogram-csharp-problem\isogram-csharp-problem.csproj" />
+    <ProjectReference Include="..\isogram-csharp-problem\isogram-csharp-problem.csproj" />
   </ItemGroup>
 
 </Project>
